@@ -1,0 +1,19 @@
+.todo{
+    
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    margin: 2px;
+    padding: 2px;
+    height: 22px;
+}
+.todoText{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.deleteButton{
+    float: right;
+    width: 50%;
+    text-align: center;
+}
